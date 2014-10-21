@@ -1,3 +1,5 @@
+### NOTE: As of 10/21/2014 I am told this script is BROKEN on the most recent Adobe Illustrator update
+
 multiexporter-hack
 ==================
 
